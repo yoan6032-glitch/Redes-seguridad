@@ -2,7 +2,7 @@
 
 ## Proyecto de laboratorio de ciberseguridad
 
-Descripción del proyecto...
+Este proyecto es un ambiente de pruebas para testear el funcionaiento de suricata ids/ips previo a su despliege en una red empresarial. 
 
 ## Tecnologías utilizadas
 
