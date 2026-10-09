@@ -18,19 +18,7 @@ Este proyecto es un ambiente de pruebas para testear el funcionaiento de suricat
 
 ## Arquitectura
 
-Internet
-   |
-   v
-Suricata
-   |
-   v
-pfSense
-   |
-   v
-Red interna
-   |
-   v
-Clientes
+Internet --> pfsense --> Suricata --> Red interna --> Clientes
 
 ## Trabajo realizado
 
